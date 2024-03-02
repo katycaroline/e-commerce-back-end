@@ -13,7 +13,8 @@ The ideal user of this program would be the owners of the e-commerce site.
 ![License: MIT License](https://img.shields.io/badge/License-MIT-red)
 
 ## Deployment
-(![Screenshot of the program tested in Insomnia](Develop/images/e-commerce.png))
+![Screenshot of the program tested in Insomnia](Develop/images/e-commerce.png)
+
 
 ## Contact Information
 GitHub Username: katycaroline
